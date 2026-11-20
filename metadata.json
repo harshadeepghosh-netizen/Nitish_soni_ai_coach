@@ -1,0 +1,6 @@
+{
+  "name": "Nitish Soni - Master Trainer AI",
+  "description": "AI Veteran Master Trainer Nitish Soni - 15+ years of bodybuilding, workout planning, macro counting, supplement advice, and form guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
